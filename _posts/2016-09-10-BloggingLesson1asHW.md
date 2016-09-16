@@ -1,5 +1,5 @@
 ---
-title: BloggongLesson1asHW
+title: BloggingLesson1asHW
 layout: post
 author: adam.ellingworth
 permalink: /bloggonglesson1ashw/
