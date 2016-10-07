@@ -1,5 +1,5 @@
 ---
-title: BloggingLesson6
+title: Blogging Lesson5
 layout: post
 author: adam.ellingworth
 permalink: /blogging-lesson6/
