@@ -1,5 +1,5 @@
 ---
-title: Blogging Lesson5
+title: Embedding Youtbe Videos
 layout: post
 author: adam.ellingworth
 permalink: /blogging-lesson6/
