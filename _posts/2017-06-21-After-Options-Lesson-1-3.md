@@ -12,5 +12,7 @@ Lesson 1- spent editing blog with small amounts of deadpool
 
 Lesson 2-  i spent the lesson making this quiz thing [https://repl.it/Ikib/5](https://repl.it/Ikib/5). Learnt a fair bit making it and was quite fun to make
 
-Lesson 3- so far we made name commenters for the first 10 [https://repl.it/IvO4/1](https://repl.it/IvO4/1). Then I started writing this as they are inspecting our githubs so I needed this up. Will probably add another post for the rest of this lesson.
+Lesson 3- so far we made name commenters for the first 10 [https://repl.it/IvO4/1](https://repl.it/IvO4/1). Then I started writing this as they are inspecting our githubs so I needed this up. 
+
+I also found [an amazing emotional video](https://goo.gl/U3LhQF)
 
